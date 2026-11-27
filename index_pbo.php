@@ -1,6 +1,6 @@
 <?php
 
-require('./Praktikum5.php');
+require('./Praktikum6.php');
 
 use Pbo\Marketplace\Produk;
 
